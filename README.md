@@ -18,7 +18,7 @@ To start developing this app, you need to follow these steps:
 - [Android Studio](https://developer.android.com/studio)
 - [GitHub Desktop](https://desktop.github.com/)
 
-2. Clone the existing repository Bidly
+2. Clone the existing repository
 
 ## Usage
 
